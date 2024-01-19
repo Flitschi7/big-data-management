@@ -1,0 +1,9 @@
+Was sind Einflussfaktoren? -pressure vibration usw. 
+Wie sehen die Daten aus? Wo und welche Daten werden gespeichert? Log Datein und Maschinendaten (Leere Werte = auch wichtig)
+Wie kann man aktuell gegensteuern?  - reaktiv
+Wann fällt die Produktion aus? - Wenn Maschine gewartet werden muss. Label: 
+Lieber false positiv
+Welchen Einfluss haben ausfälle? -200.000 € pro Stunde Kunde
+Können Wartungen in geplanten Stillständen ausgeführt werden?  -nachts keine Produktion
+
+für nächstes gespräch Data Understanding und gegebenenfalls Data Preparation
