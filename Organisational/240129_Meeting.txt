@@ -1,0 +1,10 @@
+Produktionsindex = Wie zufrieden MA's mit aktueller Produktion waren
+vermutlich raus die Spalte.
+
+Bis zum nächsten mal:
+Data Cleaning fertig und mal erste analyse mit Zielvariable Ausschuss und Ausfall
+Daten in SQL Datenbank und Mongo DB hochladen
+
+Unstrukturierte Daten (LOG Dateien) anschauen Data Understanding machen
+Process Mining aus LOG Daten macht keinen Sinn eher Text analysieren
+
