@@ -1,0 +1,3 @@
+User MongoDB Cluster0:
+Username: testuser
+Password: nadUh9Ey2apma3ks
