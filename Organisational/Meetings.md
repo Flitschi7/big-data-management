@@ -25,3 +25,30 @@ Unstrukturierte Daten (LOG Dateien) anschauen Data Understanding machen
 Process Mining aus LOG Daten macht keinen Sinn eher Text analysieren
 
 Gegenenfalls noch LOG Dateien und Wartungsdaten verknüpfen um neue Kenntnisse zu gewinnen
+
+## Meeting 21.02.2024
+
+Thema 1: Datenanalyse zeigen
+Balancing versuchen
+Feature Importance - für modelle um Einflussfaktoren zu bestimmen
+klassifikation bestimmen für logmessage und service ok
+1. teil alle modelle durchlaufen lassen - 2 besten wählen und vergleichen
+2. teil klassifikations modell zu service ok und logmessage
+3. vergleichen von den einflussfaktoren - korrelation
+
+Thema 2: APIS und Skalierung 
+Deployment in Docker - ausgeklammert, dass man es machen
+FastAPI
+modell trainieren
+analyse machen
+
+parallelisierung
+dask
+datenbanken auf ram bringen
+nur auf 2 Folien
+
+Thema 3: Abgabe
+jeder punkt crisp dm ein themensatz folien
+foliennummern und Quellen 
+links zu bibliotheken
+2 Tage vor Abgabe bis 10 Doku folien 26.02.2024 10:00
