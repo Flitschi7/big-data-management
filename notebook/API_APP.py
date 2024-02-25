@@ -21,7 +21,7 @@ app = FastAPI()
 
 #Laden des Modells
 model_path = 'notebook/finalized_model.pkl'
-with open('model_path', 'rb') as model_file:
+with open('finalized_model.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
 
 @app.post('/prognose')
