@@ -37,7 +37,7 @@ klassifikation bestimmen für logmessage und service ok
 3. vergleichen von den einflussfaktoren - korrelation
 
 Thema 2: APIS und Skalierung 
-Deployment in Docker - ausgeklammert, dass man es machen
+Deployment in Docker - ausgeklammert
 FastAPI
 modell trainieren
 analyse machen
