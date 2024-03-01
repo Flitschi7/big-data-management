@@ -1,0 +1,6 @@
+# Ignoriere alle .env Dateien
+.env
+
+# Ignoriere temporäre Verzeichnisse
+temp/
+tmp/
